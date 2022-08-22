@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.absensi_usm_v2">
+    package="absensi.usm.v2">
 
 <!-- Required when requesting precise location access on Android 12 (API level 31) and higher. -->
   <uses-permission android:name="android.permission.INTERNET"/>
